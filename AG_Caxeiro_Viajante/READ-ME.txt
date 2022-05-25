@@ -1,0 +1,89 @@
+Cada teste foi realizado com 10 interações e o numero de população, gerações ,taxa de mutação e cruzamento especificados na interface.
+
+Variações do teste : 
+
+1ª Variação:
+População : 25
+Gerações : 100
+Taxa de Mutação : 10
+Taxa de Cruzamento : 80
+
+2ª Variação:
+População : 50
+Gerações : 100
+Taxa de Mutação : 10
+Taxa de Cruzamento : 80
+
+3ª Variação:
+População : 100
+Gerações : 100
+Taxa de Mutação : 10
+Taxa de Cruzamento : 80
+
+4ª Variação:
+População : 300
+Gerações : 100
+Taxa de Mutação : 10
+Taxa de Cruzamento : 80
+
+5ª Variação:
+População : 100
+Gerações : 25
+Taxa de Mutação : 10
+Taxa de Cruzamento : 80
+
+6ª Variação:
+População : 100
+Gerações : 50
+Taxa de Mutação : 10
+Taxa de Cruzamento : 80
+
+7ª Variação:
+População : 100
+Gerações : 100
+Taxa de Mutação : 10
+Taxa de Cruzamento : 80
+
+8ª Variação:
+População : 100
+Gerações : 300
+Taxa de Mutação : 10
+Taxa de Cruzamento : 80
+
+9ª Variação:
+População : 100
+Gerações : 100
+Taxa de Mutação : 25
+Taxa de Cruzamento : 80
+
+10ª Variação:
+População : 100
+Gerações : 100
+Taxa de Mutação : 50
+Taxa de Cruzamento : 80
+
+11ª Variação:
+População : 100
+Gerações : 100
+Taxa de Mutação : 100
+Taxa de Cruzamento : 80
+
+12ª Variação:
+População : 100
+Gerações : 100
+Taxa de Mutação : 10
+Taxa de Cruzamento : 25
+
+13ª Variação:
+População : 100
+Gerações : 100
+Taxa de Mutação : 10
+Taxa de Cruzamento : 50
+
+14ª Variação:
+População : 100
+Gerações : 100
+Taxa de Mutação : 10
+Taxa de Cruzamento : 100
+
+Os resultados obtidos estão no arquivo soluções.csv com suas respectivas informações

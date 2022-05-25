@@ -1,0 +1,29 @@
+Ordem_Cidades,Melhor FIT,Pior FIT,Media,Desvio_Padrao
+Populacao : 25,Geracoes : 100,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.8
+"[13, 9, 7, 5, 3, 10, 0, 12, 1, 8, 14, 4, 6, 2, 11]",295,392,339,33.56724594005293
+Populacao : 50,Geracoes : 100,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.8
+"[6, 2, 11, 13, 9, 7, 5, 3, 10, 0, 12, 1, 14, 8, 4]",291,347,316,18.720309826495928
+Populacao : 100,Geracoes : 100,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.8
+"[9, 7, 5, 3, 10, 0, 12, 1, 14, 8, 4, 6, 2, 11, 13]",291,321,295,9.718024490605073
+Populacao : 300,Geracoes : 100,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.8
+"[5, 7, 9, 13, 11, 2, 6, 4, 8, 14, 1, 12, 0, 10, 3]",291,291,291,0.0
+Populacao : 100,Geracoes : 25,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.8
+"[7, 9, 11, 13, 2, 6, 4, 8, 14, 1, 12, 0, 10, 3, 5]",299,385,346,26.518107021429717
+Populacao : 100,Geracoes : 50,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.8
+"[3, 10, 0, 12, 1, 14, 8, 4, 6, 2, 11, 13, 9, 7, 5]",291,347,323,17.9510445378535
+Populacao : 100,Geracoes : 100,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.8
+"[11, 1, 10, 3, 8, 12, 7, 4, 0, 14, 13, 9, 2, 5, 6]",291,321,295,9.718024490605073
+Populacao : 100,Geracoes : 300,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.8
+"[14, 13, 3, 11, 4, 7, 9, 8, 12, 5, 1, 10, 0, 6, 2]",291,307,292,4.8
+Populacao : 100,Geracoes : 300,#########,Taxa_Mutacao : 0.25,Taxa_Cruzamento : 0.8
+"[13, 9, 7, 5, 3, 10, 0, 12, 1, 14, 8, 4, 6, 2, 11]",291,321,303,12.33531515608742
+Populacao : 100,Geracoes : 300,#########,Taxa_Mutacao : 0.5,Taxa_Cruzamento : 0.8
+"[2, 6, 4, 8, 1, 12, 14, 9, 7, 0, 10, 3, 5, 13, 11]",344,405,371,18.01110768387108
+Populacao : 100,Geracoes : 300,#########,Taxa_Mutacao : 1.0,Taxa_Cruzamento : 0.8
+"[6, 0, 9, 7, 14, 4, 8, 11, 12, 5, 2, 10, 3, 1, 13]",391,447,419,14.173566946961516
+Populacao : 100,Geracoes : 300,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.25
+"[5, 8, 2, 14, 9, 10, 7, 4, 13, 1, 6, 3, 0, 11, 12]",291,331,305,18.15929514050587
+Populacao : 100,Geracoes : 300,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 0.5
+"[4, 6, 2, 11, 13, 9, 7, 5, 3, 10, 0, 12, 1, 14, 8]",291,321,297,12.0
+Populacao : 100,Geracoes : 300,#########,Taxa_Mutacao : 0.1,Taxa_Cruzamento : 1.0
+"[10, 0, 12, 1, 14, 8, 4, 6, 2, 11, 13, 9, 7, 5, 3]",291,321,294,9.0
